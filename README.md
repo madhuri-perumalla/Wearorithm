@@ -94,6 +94,6 @@ Preferred communication style: Simple, everyday language.
 - **Image Validation**: Built-in file type and size validation
 
 ## Development Environment
-- **Replit Plugins**: Runtime error modal, cartographer, and development banner
+
 - **TypeScript**: Strict type checking with module resolution
 - **PostCSS**: CSS processing with Tailwind and Autoprefixer
