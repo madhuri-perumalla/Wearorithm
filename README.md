@@ -94,7 +94,7 @@ Wearorithm leverages cutting-edge AI to deliver personalized outfit recommendati
 
 ```bash
 # Clone the repository
-git clone https://github.com/madhuri-perumalla/wearorithm.git
+git clone https://github.com/madhuri-perumalla/Wearorithm.git
 cd wearorithm
 
 # Install dependencies
